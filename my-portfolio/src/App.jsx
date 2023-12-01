@@ -5,19 +5,16 @@ import Timeline from "./components/Timeline";
 import Footer from "./components/Footer";
 import Contact from "./components/Contact";
 
-
 function App() {
-
   return (
-      <div className = "App">
-        <Intro />
-        <Portfolio />
-        <Timeline />
-        <Contact />
-        <Footer />
-
-      </div>
-  )
+    <div className="App">
+      <Intro />
+      <Portfolio />
+      <Timeline />
+      <Contact />
+      <Footer />
+    </div>
+  );
 }
 
-export default App
+export default App;
