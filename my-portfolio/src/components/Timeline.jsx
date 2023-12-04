@@ -2,7 +2,7 @@ import React from "react";
 import timeline from "../data/Timeline";
 import TimelineItem from "./TimelineItem";
 import Title from "./Title";
-
+//1
 function Timeline() {
   return (
     <div className="flex flex-col md:flex-row justify-center my-20">

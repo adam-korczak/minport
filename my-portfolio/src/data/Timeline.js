@@ -29,3 +29,4 @@ export default [
       "Pursued a Bachelor's Degree in Information Technology with a minor in Computer Science. Courseload featured a heavy scope and focus on software development consisting of both frontend and backend skills and technologies.",
   },
 ];
+//2

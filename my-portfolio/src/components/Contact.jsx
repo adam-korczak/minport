@@ -1,6 +1,6 @@
 import React from "react";
 import Title from "./Title";
-
+//1
 function Contact() {
   return (
     <div className="flex flex-col mb-10 mx-auto">

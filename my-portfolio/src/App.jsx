@@ -5,6 +5,7 @@ import Timeline from "./components/Timeline";
 import Footer from "./components/Footer";
 import Contact from "./components/Contact";
 
+//1
 function App() {
   const [theme, setTheme] = useState(null);
 
