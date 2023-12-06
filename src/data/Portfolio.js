@@ -14,7 +14,7 @@ export default [
   {
     title: "Robotics Test Environment",
     imgUrl: "https://placehold.co/350x300/png",
-    stack: ["Python", "SciPy", "Matplotlib"],
+    stack: ["Python", "SciPy", "Matplotlib", "Conda"],
     link: "https://github.com/adam-korczak/Robotics-Collision-Test-Environment",
   },
 ];
